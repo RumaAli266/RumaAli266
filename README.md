@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RumaAli266
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on New Trend and Techniques
+- 💞️ I’m looking to collaborate on New trends and techniques
 - 📫 How to reach me syedrumaali266@gmail.com
 
 <!---
